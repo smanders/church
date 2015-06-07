@@ -1,4 +1,6 @@
-1 And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.
+ 39 For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.
+
+ 1 And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.
 
  2 And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.
 
