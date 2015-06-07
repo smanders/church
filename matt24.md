@@ -10,12 +10,6 @@
 
  5 For many shall come in my name, saying, I am Christ; and shall deceive many.
 
- 6 And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
-
- 7 For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
-
- 8 All these are the beginning of sorrows.
-
  9 Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake.
 
  10 And then shall many be offended, and shall betray one another, and shall hate one another.
@@ -25,8 +19,6 @@
  12 And because iniquity shall abound, the love of many shall wax cold.
 
  13 But he that shall endure unto the end, the same shall be saved.
-
- 14 And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
 
  15 When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)
 
@@ -56,19 +48,23 @@
 
  28 For wheresoever the carcase is, there will the eagles be gathered together.
 
+ 6 And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
+
+ 7 For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
+
+ 12 And because iniquity shall abound, the love of many shall wax cold.
+
+ 14 And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
+
  29 ¶Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
-
- 30 And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
-
- 31 And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
-
- 32 Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh:
-
- 33 So likewise ye, when ye shall see all these things, know that it is near, even at the doors.
 
  34 Verily I say unto you, This generation shall not pass, till all these things be fulfilled.
 
  35 Heaven and earth shall pass away, but my words shall not pass away.
+
+ 32 Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh:
+
+ 33 So likewise ye, when ye shall see all these things, know that it is near, even at the doors.
 
  36 ¶But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.
 
@@ -91,7 +87,6 @@
  45 Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?
 
  46 Blessed is that servant, whom his lord when he cometh shall find so doing.
-
  47 Verily I say unto you, That he shall make him ruler over all his goods.
 
  48 But and if that evil servant shall say in his heart, My lord delayeth his coming;
@@ -101,3 +96,10 @@
  50 The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,
 
  51 And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth.
+
+ 8 All these are the beginning of sorrows.
+
+ 30 And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
+
+ 31 And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
+
