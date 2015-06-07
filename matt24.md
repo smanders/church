@@ -97,9 +97,6 @@
 
  51 And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth.
 
- 8 All these are the beginning of sorrows.
 
- 30 And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
 
- 31 And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
-
+8, 30, 31?
